@@ -25,7 +25,7 @@ Le dashboard comprend plusieurs sections, y compris:
 
 - Une présentation du scoring client et de son interprétation
 - Une barre latérale permettant de sélectionner le client à afficher
-- Des informations sur le client, telles que le score, la moyen
+- Des informations sur le client, telles que le score, la moyenne, ainsi que les features et les caracteristiques du client
 
 ## Comment exécuter ce dashboard
 
